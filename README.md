@@ -2,7 +2,7 @@
 
 - ⚙ Software Engineer at General Motors
 - 🎓 Majored in Computer Science with a Double Minor in Math & Statistics at the University of Toronto
-- 👨‍🏫 I have a passion for learning as well as teaching and was previously a teaching assistant in university
+- 👨‍🏫 I have a passion for learning as well as teaching and was previously a CS teaching assistant in university
 - 🤔 Currently learning Go
 - ⛺ Part-time avid outdoorsman
 
