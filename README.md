@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="http://zalt.me">
+	<a href="http://daniiloliynyk.dev">
 		<img alt="Daniil's Welcome Message"
 			 src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile+:)&color=fc7f00&center=true&vCenter=true&width=550&height=50&pause=2000">
 	</a>
