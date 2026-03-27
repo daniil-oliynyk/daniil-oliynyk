@@ -21,3 +21,19 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+
+<!-- GitHub Activity Graph Section -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniil-oliynyk&bg_color=0D1117&color=f5f5f5&line=5227FF&point=B19EEF&hide_border=true">
+</p>
+
+<!-- Streak Stats Section + GitHub Stats Section Side-by-Side -->
+<p align="center">
+	<!-- Streak Stats Section -->
+	<a href="https://zalt.me">
+		<img alt="Daniil's Streak Stats"
+			 src="https://github-readme-streak-stats.herokuapp.com/?user=daniil-oliynyk&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=5227FF&fire=fc7f00&currStreakLabel=fc7f00"
+			 height="200"/>
+	</a>
+	
+</p>
