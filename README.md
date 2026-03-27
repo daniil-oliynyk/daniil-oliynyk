@@ -1,4 +1,11 @@
-# 💫 About Me:
+<p align="center">
+	<a href="http://zalt.me">
+		<img alt="Daniil's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile+:)&color=fc7f00&center=true&vCenter=true&width=550&height=50&pause=2000">
+	</a>
+</p>
+
+
 
 ### Hi, I'm Daniil!
 
@@ -17,7 +24,7 @@
 
 <!-- GitHub Activity Graph Section -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniil-oliynyk&bg_color=0D1117&color=f5f5f5&line=5227FF&point=B19EEF&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniil-oliynyk&bg_color=0D1117&color=f5f5f5&line=5227FF&point=fc7f00&hide_border=true">
 </p>
 
 <!-- Streak Stats Section + GitHub Stats Section Side-by-Side -->
