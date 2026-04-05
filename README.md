@@ -24,13 +24,15 @@
 
 <!-- GitHub Activity Graph Section -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniil-oliynyk&bg_color=0D1117&color=f5f5f5&line=5227FF&point=fc7f00&hide_border=true">
+	<a href="https://www.daniiloliynyk.dev">
+		<img src="https://github-readme-activity-graph.vercel.app/graph?username=daniil-oliynyk&bg_color=0D1117&color=f5f5f5&line=5227FF&point=fc7f00&hide_border=true">
+	</a>
 </p>
 
 <!-- Streak Stats Section + GitHub Stats Section Side-by-Side -->
 <p align="center">
 	<!-- Streak Stats Section -->
-	<a href="https://zalt.me">
+	<a href="https://daniiloliynyk.dev">
 		<img alt="Daniil's Streak Stats"
 			 src="https://github-readme-streak-stats.herokuapp.com/?user=daniil-oliynyk&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=5227FF&fire=fc7f00&currStreakLabel=fc7f00"
 			 height="200"/>
