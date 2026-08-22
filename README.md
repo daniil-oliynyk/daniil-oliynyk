@@ -28,14 +28,3 @@
 		<img src="https://github-readme-activity-graph.vercel.app/graph?username=daniil-oliynyk&bg_color=0D1117&color=f5f5f5&line=5227FF&point=fc7f00&hide_border=true">
 	</a>
 </p>
-
-<!-- Streak Stats Section + GitHub Stats Section Side-by-Side -->
-<p align="center">
-	<!-- Streak Stats Section -->
-	<a href="https://daniiloliynyk.dev">
-		<img alt="Daniil's Streak Stats"
-			 src="[![GitHub Streak](https://streak-stats.demolab.com?user=da)](https://git.io/streak-stats)"
-			 height="200"/>
-	</a>
-	
-</p>
