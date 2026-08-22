@@ -34,7 +34,7 @@
 	<!-- Streak Stats Section -->
 	<a href="https://daniiloliynyk.dev">
 		<img alt="Daniil's Streak Stats"
-			 src="https://github-readme-streak-stats.herokuapp.com/?user=daniil-oliynyk&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=5227FF&fire=fc7f00&currStreakLabel=fc7f00"
+			 src="[![GitHub Streak](https://streak-stats.demolab.com?user=da)](https://git.io/streak-stats)"
 			 height="200"/>
 	</a>
 	
